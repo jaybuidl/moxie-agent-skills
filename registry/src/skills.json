@@ -25,5 +25,14 @@
         "description": "A Skills for Creator Agents that enables fetching of base token details.",
         "githubUrl": "https://github.com/moxie-protocol/moxie-agent-skills/tree/main/packages/plugin-moxie-token-details",
         "imageUrl": "https://github.com/moxie-protocol/moxie-agent-skills/tree/main/packages/plugin-moxie-token-details/images/logo.png"
+    },
+    {
+        "pluginId": "9b982cc9-3e84-4448-86b4-ef360af49ce0",
+        "name": "@moxie-protocol/plugin-kleros-juror",
+        "version": "0.0.1",
+        "author": "jb@kleros.io",
+        "description": "A Skills for interacting with Kleros as a Juror",
+        "githubUrl": "https://github.com/moxie-protocol/moxie-agent-skills/tree/main/packages/plugin-kleros-juror",
+        "imageUrl": "https://github.com/moxie-protocol/moxie-agent-skills/tree/main/packages/plugin-kleros-juror/images/logo.png"
     }
 ]
